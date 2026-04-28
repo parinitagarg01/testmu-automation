@@ -42,6 +42,11 @@ Both test cases are configured to run in parallel using pytest.
 Amazon is a dynamic website, so selectors or behavior may occasionally vary.  
 The script is designed to handle common scenarios and works reliably under normal conditions.
 
+## Bonus: LambdaTest Cloud Execution
+
+The test cases were successfully executed on LambdaTest cloud platform using Playwright.
+
+
 ---
 
 Thank you for reviewing my submission!
